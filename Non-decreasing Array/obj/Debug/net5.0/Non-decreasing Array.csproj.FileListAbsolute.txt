@@ -1,0 +1,16 @@
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\bin\Debug\net5.0\Non-decreasing Array.exe
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\bin\Debug\net5.0\Non-decreasing Array.deps.json
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\bin\Debug\net5.0\Non-decreasing Array.runtimeconfig.json
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\bin\Debug\net5.0\Non-decreasing Array.runtimeconfig.dev.json
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\bin\Debug\net5.0\Non-decreasing Array.dll
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\bin\Debug\net5.0\ref\Non-decreasing Array.dll
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\bin\Debug\net5.0\Non-decreasing Array.pdb
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\obj\Debug\net5.0\Non-decreasing Array.csprojAssemblyReference.cache
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\obj\Debug\net5.0\Non-decreasing Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\obj\Debug\net5.0\Non-decreasing Array.AssemblyInfoInputs.cache
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\obj\Debug\net5.0\Non-decreasing Array.AssemblyInfo.cs
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\obj\Debug\net5.0\Non-decreasing Array.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\obj\Debug\net5.0\Non-decreasing Array.dll
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\obj\Debug\net5.0\ref\Non-decreasing Array.dll
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\obj\Debug\net5.0\Non-decreasing Array.pdb
+C:\Users\Thomas Stone\source\repos\Non-decreasing Array\Non-decreasing Array\obj\Debug\net5.0\Non-decreasing Array.genruntimeconfig.cache
